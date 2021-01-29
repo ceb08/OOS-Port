@@ -4,7 +4,7 @@
 if [ ! -f /data/system/evelyn/parameters/dt2w ]; then
 	mkdir -p /data/system/evelyn/parameters
 	touch /data/system/evelyn/parameters/dt2w
-	echo 5 > /data/system/evelyn/parameters/dt2w
+	echo 4 > /data/system/evelyn/parameters/dt2w
 fi
 
 #Set dt2w on boot
